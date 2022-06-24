@@ -1,7 +1,6 @@
 - 👋 Hi, I am Pavan Kawade
 - 👀 Interested in Data science , Machine learning , Python
-- 🌱 I’m currently learning new edge technologies
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning new edge technologies - Tensorflow, NLP
 - 📫 I am available over kawadepavan@gnail.com
 
 <!---
